@@ -8,12 +8,11 @@ The projects cover both classification and regression problems using different m
 
 | Project | Problem Type | Models | Main Techniques |
 |---|---|---|---|
-| Cancer Prediction | Classification | Decision Tree | Train/test split, accuracy, cross-validation |
-| Marketing Analysis | Classification | Decision Tree | Data wrangling, encoding, GridSearchCV, confusion matrix |
-| Stock Price Prediction | Regression | XGBoost Regressor | Time-series preparation, scaling, lag features, MAE, RMSE |
-| Weather Prediction | Classification | XGBoost Classifier | Label encoding, normalization, GridSearchCV |
-| Wine Quality Prediction | Classification | Random Forest, SVM | EDA, standardisation, GridSearchCV, cross-validation |
-
+| [Cancer Prediction](Cancer-Prediction/) | Classification | Decision Tree | Train/test split, accuracy, cross-validation |
+| [Marketing Analysis](Marketing-Analysis/) | Classification | Decision Tree | Data wrangling, encoding, GridSearchCV, confusion matrix |
+| [Stock Price Prediction](Stock-Price-Prediction/) | Regression | XGBoost Regressor | Time-series preparation, scaling, lag features, MAE, RMSE |
+| [Weather Prediction](Weather-Prediction/) | Classification | XGBoost Classifier | Label encoding, normalization, GridSearchCV |
+| [Wine Quality Prediction](Wine-Quality-Prediction/) | Classification | Random Forest, SVM | EDA, standardisation, GridSearchCV, cross-validation |
 ## 🛠️ Tools & Technologies
 
 - Python
